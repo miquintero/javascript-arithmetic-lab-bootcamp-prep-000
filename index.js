@@ -16,8 +16,3 @@ function multiply(c,d) {
   return c * d
 }
 
-var e = 5.0 
-var f = 2.5
-function divide(e,f) {
-  return e / f
-}
