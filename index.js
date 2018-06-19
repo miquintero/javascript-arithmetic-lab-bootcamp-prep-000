@@ -1,4 +1,4 @@
-a = 1
-b = 80
-add(a, b)
+var x = 1
+var y = 80
+function add(a, b)
 
