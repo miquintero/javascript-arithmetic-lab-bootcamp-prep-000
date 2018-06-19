@@ -24,6 +24,6 @@ function divide(e,f) {
 
 var number = 731
 function inc(n) {
-  return number++;
+  return number ++;
 }
 
