@@ -24,6 +24,6 @@ function divide(e,f) {
 
 var n= 932
 function inc(n) {
-  return n++;
+  return n+=1
 }
 
