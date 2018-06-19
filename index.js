@@ -22,7 +22,7 @@ function divide(e,f) {
   return e / f
 }
 
-var number = 937
+var number = 21
 function inc(n) {
   return number++;
 }
