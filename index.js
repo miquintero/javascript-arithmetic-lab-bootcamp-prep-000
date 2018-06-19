@@ -22,6 +22,8 @@ function divide(e,f) {
   return e / f
 }
 
-var inc = n
+var number = n
 
-inc++
+function inc(number) {
+  return number++
+}
