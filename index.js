@@ -25,5 +25,5 @@ function divide(e,f) {
 var n = 10
 
 function inc(n) {
-  return number++
+  return n++
 }
