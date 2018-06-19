@@ -21,3 +21,7 @@ var f = 2.5
 function divide(e,f) {
   return e / f
 }
+
+var number = n
+
+number++
