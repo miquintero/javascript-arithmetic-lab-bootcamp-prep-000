@@ -22,9 +22,9 @@ function divide(e,f) {
   return e / f
 }
 
-var n = 470
+var n = 675
 function inc(n) {
   return n++
+  n
 }
-inc(n)
-n
+
