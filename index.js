@@ -27,3 +27,4 @@ function inc(n) {
   return n++
 }
 inc(n)
+n
